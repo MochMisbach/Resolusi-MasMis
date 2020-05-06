@@ -1,4 +1,4 @@
 Rencana tahun 2020
-==> menguasai android dan ios 
+==> menguasai coding android dan ios (flutter)
 ==> membuat web e-commerce
-==> memulai bisnis kr
+==> memulai bisnis krupuk
